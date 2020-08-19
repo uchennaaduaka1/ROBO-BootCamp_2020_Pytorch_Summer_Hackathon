@@ -17,27 +17,12 @@ The name of the project was inspired by Nina Simone’s rendition of Billie Holi
 Visit the app at [ROBO-BootCamp](http://robobootcamp.com/)
 
 
-![Strange Fruits Website](https://github.com/acheamponge/StrangeFruits/blob/master/streamlitapp/img/sf.gif)
+![Strange Fruits Website](https://github.com/acheamponge/ROBO-BootCamp_2020_Pytorch_Summer_Hackathon/blob/master/static/img/1.gif)
 
 
 
 
-## You can contribute:
-- On Github
- 
-- Google Docs: [Strange Fruits Google Docs](https://docs.google.com/document/d/11v9jWw98QerB--y08oQk6fSOUKhxk5p_68Ariy-vYXc/edit?usp=sharing)
-
-
-## Special Thanks:
-
-Huge thank you to MarcSkovMadsen and Avkash whose use of Streamlit helped make the webapp for this project
-
-[MarcSkovMadsen](https://github.com/MarcSkovMadsen/awesome-streamlit/)
-            
-        
-[Avkash](https://github.com/Avkash/demoapps)
-
-## Collaborators:
+## Team:
 - Samuel Osei Afriyie - https://www.linkedin.com/in/samuel-osei-afriyie-b1543257/
 
 - Emmanuel Acheampong - https://www.linkedin.com/in/emmanuel-acheampong/
