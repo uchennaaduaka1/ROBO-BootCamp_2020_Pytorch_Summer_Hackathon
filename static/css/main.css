@@ -1,0 +1,142 @@
+footer {
+  position: fixed;
+  height: 50px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin-bottom: 0px;
+}
+
+.logo {
+  box-shadow:5px 5px 5px #999;
+}
+
+.contn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrapper .file-upload {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 4px solid #000000;
+  overflow: hidden;
+  background-image: linear-gradient(to bottom, #A67C00 50%, #FFFFFF 50%);
+  background-size: 100% 200%;
+  transition: all 1s;
+  color: #FFFFFF;
+  font-size: 100px;
+}
+
+.wrapper .file-upload input[type='file'] {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.wrapper .file-upload:hover {
+  background-position: 0 -100%;
+  color: #A67C00;
+}
+
+.color-rect {
+  width: 100px;
+  height: 25px;
+}
+
+ p, h4 {
+  padding: 0;
+  margin: 0;
+}
+
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+ 
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
+
+.btn-cust {
+  color: #fff;
+  background-color: #a67c00;
+  border-color: #a67c00;
+}
+
+.btn-cust:hover {
+  color: #fff;
+  background-color: #d6a000;
+  border-color: #d6a000;
+}
+
+.btn-cust:focus, .btn-cust.focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 191, 0);
+}
+
+#bot {
+    display: none;
+    position: fixed;
+    bottom: 150px;
+    right: 5px;
+}
+
+.botbtn {
+    position: fixed;
+    bottom: 75px;
+    right: 5px;
+    z-index: 10;
+    color: #21618C !important;
+    background-color: #ECEE30 !important;
+}
+
+.botbtn:hover {
+    background-color: #21618C !important;
+    color: #ECEE30 !important;
+}
+
+footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+.covmap {
+    padding-bottom: 0px;
+    padding-top: 25px;
+}
+
+.cont {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+  }

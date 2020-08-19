@@ -1,0 +1,91 @@
+﻿Name,Url,Rating,Difficulty,Tags,Topic,career_level,hours,math_experience,Category
+Mathematics for Machine Learning: PCA,https://coursera.org/learn/pca-machine-learning,4,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,4,3,3
+Probabilistic Graphical Models 2: Inference,https://coursera.org/learn/probabilistic-graphical-models-2-inference,4.6,Advanced Level,"['Data Science', 'Machine Learning']",1,1,4,3,3
+Launching into Machine Learning,https://coursera.org/learn/launching-machine-learning,4.6,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,1,1,1
+Introduction to Applied Machine Learning,https://coursera.org/learn/machine-learning-applied,4.7,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,2,2,2
+Introduction to Deep Learning,https://coursera.org/learn/intro-to-deep-learning,4.6,Advanced Level,"['Data Science', 'Machine Learning']",1,2,4,3,3
+Recommender Systems:  Evaluation and Metrics,https://coursera.org/learn/recommender-metrics,4.3,None,"['Data Science', 'Machine Learning']",1,2,3,2,2
+Machine Learning with Python,https://coursera.org/learn/machine-learning-with-python,4.7,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,2,2,2
+Code Free Data Science,https://coursera.org/learn/code-free-data-science,4.3,Beginner Level,"['Data Science', 'Machine Learning']",1,2,1,1,1
+Data for Machine Learning,https://coursera.org/learn/data-machine-learning,4.7,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,2,1,2
+Project: Predict Sales Revenue with scikit-learn,https://coursera.org/learn/scikit-learn-simple-linear-regression,4.1,Beginner Level,"['Data Science', 'Machine Learning']",1,2,3,2,1
+Convolutional Neural Networks,https://coursera.org/learn/convolutional-neural-networks,4.9,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,4,3,3
+Feature Engineering,https://coursera.org/learn/feature-engineering,4.5,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,4,3,3
+Production Machine Learning Systems,https://coursera.org/learn/gcp-production-ml-systems,4.6,Advanced Level,"['Data Science', 'Machine Learning']",1,2,3,2,3
+Introduction to Machine Learning,https://coursera.org/learn/machine-learning-duke,4.6,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,2,1,2
+Machine Learning for Business Professionals,https://coursera.org/learn/machine-learning-business-professionals,4.6,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,2,1,2
+Practical Reinforcement Learning,https://coursera.org/learn/practical-rl,4.2,Advanced Level,"['Data Science', 'Machine Learning']",1,1,4,3,3
+Sequence Models,https://coursera.org/learn/nlp-sequence-models,4.8,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,4,3,3
+Recommendation Systems with TensorFlow on GCP,https://coursera.org/learn/recommendation-models-gcp,4.5,Advanced Level,"['Data Science', 'Machine Learning']",1,1,3,2,3
+Machine Learning Algorithms: Supervised Learning Tip to Tail,https://coursera.org/learn/machine-learning-classification-algorithms,4.8,None,"['Data Science', 'Machine Learning']",1,3,2,2,2
+Reinforcement Learning for Trading Strategies,https://coursera.org/learn/trading-strategies-reinforcement-learning,None,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,4,3,3
+Foundations of Data Science: K-Means Clustering in Python,https://coursera.org/learn/data-science-k-means-clustering-python,4.7,Beginner Level,"['Data Science', 'Machine Learning']",1,1,2,2,1
+Sequence Models for Time Series and Natural Language Processing,https://coursera.org/learn/sequence-models-tensorflow-gcp,4.4,Advanced Level,"['Data Science', 'Machine Learning']",1,1,4,3,3
+Project: Predicting House Prices with Regression using TensorFlow,https://coursera.org/learn/tensorflow-beginner-predicting-house-prices-regression,4.7,Beginner Level,"['Data Science', 'Machine Learning']",1,2,2,2,1
+Machine Learning With Big Data,https://coursera.org/learn/big-data-machine-learning,4.6,None,"['Data Science', 'Machine Learning']",1,3,2,2,2
+Probabilistic Graphical Models 1: Representation,https://coursera.org/learn/probabilistic-graphical-models,4.7,Advanced Level,"['Data Science', 'Machine Learning']",1,1,3,3,3
+Distributed Computing with Spark SQL,https://coursera.org/learn/spark-sql,4.5,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,2,2,2
+Project: Basic Image Classification with TensorFlow,https://coursera.org/learn/tensorflow-beginner-basic-image-classification,4.5,Beginner Level,"['Data Science', 'Machine Learning']",1,3,1,2,1
+Big Data Applications: Machine Learning at Scale,https://coursera.org/learn/machine-learning-applications-big-data,3.8,Advanced Level,"['Data Science', 'Machine Learning']",1,2,2,2,3
+Introduction to Deep Learning & Neural Networks with Keras,https://coursera.org/learn/introduction-to-deep-learning-with-keras,4.6,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,2,3,2
+How Google does Machine Learning,https://coursera.org/learn/google-machine-learning,4.6,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,1,1,1
+Developing AI Applications on Azure,https://coursera.org/learn/developing-ai-applications-azure,None,Advanced Level,"['Data Science', 'Machine Learning']",1,2,1,1,3
+Nearest Neighbor Collaborative Filtering,https://coursera.org/learn/collaborative-filtering,4.3,None,"['Data Science', 'Machine Learning']",1,1,2,2,2
+Natural Language Processing,https://coursera.org/learn/language-processing,4.6,Advanced Level,"['Data Science', 'Machine Learning']",1,1,1,1,3
+AI Workflow: Business Priorities and Data Ingestion,https://coursera.org/learn/ibm-ai-workflow-business-priorities-data-ingestion,4.3,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,2,3,2
+Using Machine Learning in Trading and Finance,https://coursera.org/learn/machine-learning-trading-finance,3.3,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,2,2,2
+"AI Workflow: Machine Learning, Visual Recognition and NLP",https://coursera.org/learn/ibm-ai-workflow-machine-learning-vr-nlp,4.8,Advanced Level,"['Data Science', 'Machine Learning']",1,2,3,2,3
+"Introduction to Trading, Machine Learning & GCP",https://coursera.org/learn/introduction-trading-machine-learning-gcp,3.8,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,1,1,1
+Natural Language Processing in TensorFlow,https://coursera.org/learn/natural-language-processing-tensorflow,4.6,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,2,2,2
+Intro to TensorFlow,https://coursera.org/learn/intro-tensorflow,4.5,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,2,1,2
+Matrix Factorization and Advanced Techniques,https://coursera.org/learn/matrix-factorization,4.3,None,"['Data Science', 'Machine Learning']",1,1,3,3,2
+AI Workflow: Data Analysis and Hypothesis Testing,https://coursera.org/learn/ibm-ai-workflow-data-analysis-hypothesis-testing,4.9,Advanced Level,"['Data Science', 'Machine Learning']",1,2,3,2,3
+Introduction to Recommender Systems:  Non-Personalized and Content-Based,https://coursera.org/learn/recommender-systems-introduction,4.5,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,2,2,2
+Prediction and Control with Function Approximation,https://coursera.org/learn/prediction-control-function-approximation,4.8,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,2,2,2
+Convolutional Neural Networks in TensorFlow,https://coursera.org/learn/convolutional-neural-networks-tensorflow,4.7,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,3,3,2
+Mathematics for Machine Learning: Linear Algebra,https://coursera.org/learn/linear-algebra-machine-learning,4.7,Beginner Level,"['Data Science', 'Machine Learning']",1,1,2,2,1
+Project: Multiple Linear Regression with scikit-learn,https://coursera.org/learn/scikit-learn-multiple-linear-regression,3.8,Beginner Level,"['Data Science', 'Machine Learning']",1,2,1,2,1
+"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization",https://coursera.org/learn/deep-neural-network,4.9,Beginner Level,"['Data Science', 'Machine Learning']",1,1,2,3,1
+Art and Science of Machine Learning,https://coursera.org/learn/art-science-ml,4.6,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,1,1,1
+Machine Learning Foundations: A Case Study Approach,https://coursera.org/learn/ml-foundations,4.6,None,"['Data Science', 'Machine Learning']",1,3,1,2,1
+AI Capstone Project with Deep Learning,https://coursera.org/learn/ai-deep-learning-capstone,None,Advanced Level,"['Data Science', 'Machine Learning']",1,1,1,2,3
+Probabilistic Graphical Models 3: Learning,https://coursera.org/learn/probabilistic-graphical-models-3-learning,4.6,Advanced Level,"['Data Science', 'Machine Learning']",1,1,3,3,3
+Practical Machine Learning,https://coursera.org/learn/practical-machine-learning,4.5,None,"['Data Science', 'Machine Learning']",1,2,2,2,2
+Optimizing Machine Learning Performance,https://coursera.org/learn/optimize-machine-learning-model-performance,4.6,None,"['Data Science', 'Machine Learning']",1,1,2,3,2
+Fundamentals of Machine Learning in Finance,https://coursera.org/learn/fundamentals-machine-learning-in-finance,3.8,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,2,2,1
+Applied AI with DeepLearning,https://coursera.org/learn/ai,4.5,Advanced Level,"['Data Science', 'Machine Learning']",1,3,3,3,3
+Computer Simulations,https://coursera.org/learn/computer-simulations,None,Beginner Level,"['Data Science', 'Machine Learning']",1,1,1,2,1
+Building AI Applications with Watson APIs,https://coursera.org/learn/building-ai-applications,4.2,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,2,1,2
+Reinforcement Learning in Finance,https://coursera.org/learn/reinforcement-learning-in-finance,3.6,Advanced Level,"['Data Science', 'Machine Learning']",1,2,3,3,3
+Introduction to Computer Vision with Watson and OpenCV,https://coursera.org/learn/introduction-computer-vision-watson-opencv,4.5,Beginner Level,"['Data Science', 'Machine Learning']",1,2,1,1,1
+Advanced Machine Learning and Signal Processing,https://coursera.org/learn/advanced-machine-learning-signal-processing,4.5,Advanced Level,"['Data Science', 'Machine Learning']",1,1,3,3,3
+Bayesian Methods for Machine Learning,https://coursera.org/learn/bayesian-methods-in-machine-learning,4.6,Advanced Level,"['Data Science', 'Machine Learning']",1,1,3,3,3
+Machine Learning for Data Analysis,https://coursera.org/learn/machine-learning-data-analysis,4.2,None,"['Data Science', 'Machine Learning']",1,2,2,2,2
+Machine Learning: Classification,https://coursera.org/learn/ml-classification,4.7,None,"['Data Science', 'Machine Learning']",1,3,2,2,2
+AI Workflow: Enterprise Model Deployment,https://coursera.org/learn/ibm-ai-workflow-machine-learning-model-deployment,None,Advanced Level,"['Data Science', 'Machine Learning']",1,2,3,2,3
+Machine Learning,https://coursera.org/learn/machine-learning,4.9,None,"['Data Science', 'Machine Learning']",1,3,2,1,1
+Big Data Services: Capstone Project,https://coursera.org/learn/big-data-services,None,Advanced Level,"['Data Science', 'Machine Learning']",1,2,1,2,3
+Predictive Modeling and Machine Learning with MATLAB,https://coursera.org/learn/predictive-modeling-machine-learning,None,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,2,2,2
+Recommender Systems Capstone,https://coursera.org/learn/recommeder-systems-capstone,3.8,None,"['Data Science', 'Machine Learning']",1,1,2,2,2
+Sample-based Learning Methods,https://coursera.org/learn/sample-based-learning-methods,4.8,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,1,2,1
+Guided Tour of Machine Learning in Finance,https://coursera.org/learn/guided-tour-machine-learning-finance,3.8,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,1,1,1
+Scalable Machine Learning on Big Data using Apache Spark,https://coursera.org/learn/machine-learning-big-data-apache-spark,4.1,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,2,2,2
+Building Deep Learning Models with TensorFlow,https://coursera.org/learn/building-deep-learning-models-with-tensorflow,4.2,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,2,3,2
+Machine Learning: Regression,https://coursera.org/learn/ml-regression,4.8,None,"['Data Science', 'Machine Learning']",1,3,2,2,2
+Getting Started with AWS Machine Learning,https://coursera.org/learn/aws-machine-learning,4.3,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,1,1,1
+Image Understanding with TensorFlow on GCP,https://coursera.org/learn/image-understanding-tensorflow-gcp,4.6,Advanced Level,"['Data Science', 'Machine Learning']",1,1,3,2,3
+"Sequences, Time Series and Prediction",https://coursera.org/learn/tensorflow-sequences-time-series-and-prediction,4.6,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,2,3,2
+AI Workflow: Feature Engineering and Bias Detection,https://coursera.org/learn/ibm-ai-workflow-feature-engineering-bias-detection,4.9,Advanced Level,"['Data Science', 'Machine Learning']",1,2,2,2,2
+Getting Started with AI using IBM Watson,https://coursera.org/learn/ai-with-ibm-watson,4.5,Beginner Level,"['Data Science', 'Machine Learning']",1,3,1,1,1
+Advanced Data Science Capstone,https://coursera.org/learn/advanced-data-science-capstone,4.6,Advanced Level,"['Data Science', 'Machine Learning']",1,1,3,2,3
+A Complete Reinforcement Learning System (Capstone),https://coursera.org/learn/complete-reinforcement-learning-system,4.6,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,2,3,2
+Deep Neural Networks with PyTorch,https://coursera.org/learn/deep-neural-networks-with-pytorch,4.4,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,2,3,2
+Machine Learning Using SAS Viya,https://coursera.org/learn/machine-learning-sas,4.7,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,2,2,2
+Introduction to Artificial Intelligence (AI),https://coursera.org/learn/introduction-to-ai,4.7,Beginner Level,"['Data Science', 'Machine Learning']",1,3,1,2,1
+Fundamentals of Reinforcement Learning,https://coursera.org/learn/fundamentals-of-reinforcement-learning,4.8,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,2,3,2
+AI Workflow: AI in Production,https://coursera.org/learn/ibm-ai-workflow-ai-production,None,Advanced Level,"['Data Science', 'Machine Learning']",1,2,3,1,3
+The Unix Workbench,https://coursera.org/learn/unix,4.8,Beginner Level,"['Data Science', 'Machine Learning']",1,3,1,1,1
+Google Cloud Platform Big Data and Machine Learning Fundamentals,https://coursera.org/learn/gcp-big-data-ml-fundamentals,4.6,Intermediate Level,"['Data Science', 'Machine Learning']",1,3,2,1,1
+Computational Neuroscience,https://coursera.org/learn/computational-neuroscience,4.7,Beginner Level,"['Data Science', 'Machine Learning']",1,1,1,3,1
+Neural Networks and Deep Learning,https://coursera.org/learn/neural-networks-deep-learning,4.9,Intermediate Level,"['Data Science', 'Machine Learning']",1,1,2,3,2
+Practical Machine Learning on H2O,https://coursera.org/learn/machine-learning-h2o,4.5,Intermediate Level,"['Data Science', 'Machine Learning']",1,2,2,2,2
